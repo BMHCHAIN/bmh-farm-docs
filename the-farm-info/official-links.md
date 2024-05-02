@@ -16,8 +16,9 @@ layout:
 
 ## Socials
 
-* Telegram: [https://t.me/](https://t.me/)
 * Website: [https://home-farms.bmhchain.org/](https://home-farms.bmhchain.org/)
-* PlayGame: [https://farms.bmhchain.org/](https://farms.bmhchain.org/)
+* Telegram: [https://t.me/BYTEMESHchain](https://t.me/BYTEMESHchain)
+* Twitter: [https://twitter.com/ByteMesh](https://twitter.com/ByteMesh)
 * BSC Chain: [https://bscscan.com/](https://bscscan.com/)
+* PlayGame: [https://farms.bmhchain.org/](https://farms.bmhchain.org/)
 
