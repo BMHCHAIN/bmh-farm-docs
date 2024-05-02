@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/welcome.png
-coverY: -3.861333333333333
+cover: .gitbook/assets/welcometo.png
+coverY: 48.53631284916201
 layout:
   cover:
     visible: true
