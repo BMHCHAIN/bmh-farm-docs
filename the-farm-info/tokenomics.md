@@ -14,18 +14,22 @@ layout:
 
 # 🖼️ Tokenomics
 
-**TOKEN METRIC**&#x20;
+### <mark style="color:green;">**🏝️  Information**</mark>
 
-* Total Supply: 1,000,000 MGT&#x20;
-* Total Supply: 1,000,000 MGT&#x20;
-* FarmFi: 40%&#x20;
-* Marketing: 3%&#x20;
-* Marketing: 3%&#x20;
-* Cex: 5%&#x20;
-* Presale: 45.4%&#x20;
-* Liquidity: 4.5%&#x20;
+$BMH is the project's governance token.
 
-**BUY/SELL TAX**&#x20;
+Token name: Byte Mesh
 
-* Slip buy: 0%&#x20;
-* Slip sell: 0%
+Symbol: BMH
+
+CONTRACT CODE sent on TG group: BMH.SOL
+
+### 🌾<mark style="color:green;">**Tokenomics**</mark>
+
+* Total Supply: 5,000,000 BMH
+* Marketing: 5%
+
+**BUY/SELL TAX**
+
+* Slip buy: 5%
+* Slip sell: 5%
