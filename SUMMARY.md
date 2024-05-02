@@ -16,12 +16,12 @@
 ## GAME FEATURES
 
 * [✨ Basic Features](game-features/basic-features/README.md)
-  * [🪙 Deposit (Coming Soon)](game-features/basic-features/deposit-coming-soon.md)
   * [🛒 Shop](game-features/basic-features/shop.md)
   * [🪴 Farm](game-features/basic-features/farm.md)
   * [🏚️ Warehouse](game-features/basic-features/storehouse.md)
   * [🎁 Treasure Chest](game-features/basic-features/treasure-chest.md)
-  * [🎏 Withdraw (Coming Soon)](game-features/basic-features/withdraw-coming-soon.md)
+* [🎏 Withdraw (Coming Soon)](game-features/withdraw-coming-soon.md)
+* [🪙 Deposit (Coming Soon)](game-features/deposit-coming-soon.md)
 
 ## IN GAME ITEMS
 
