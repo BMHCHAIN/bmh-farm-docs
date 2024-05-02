@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/homes-farm.png
+cover: .gitbook/assets/Bytemesh.png
 coverY: 0
 layout:
   cover:
@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 👨‍🌾 Welcome to the farm in BHM!
+# 👨‍🌾 Welcome to the farm in BMH!
 
 ## Welcome to BMH Farm!!
 

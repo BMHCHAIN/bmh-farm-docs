@@ -21,36 +21,37 @@ layout:
 
 ## **Game Mechanics Farm:**
 
-<figure><img src="../.gitbook/assets/Flow game final.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Bytemesh.png" alt=""><figcaption></figcaption></figure>
 
 **1. Play Game:** Register an account by connecting to Metamask wallet
 
 **2. Shop:** Players can buy the seeds on [**`Seed Shop`**](../game-features/basic-features/shop.md)**.** In addition, you can buy other items such as fertilizer, Animal, animal feed, etc.
 
-**3. Sow the seeds, take care and harvest :**&#x20;
+**3. Sow the seeds, take care and harvest :**
 
-* Each player has 30 plots of land available. The player needs to plant the seeds on the plots of land on the farm. Each type of tree has a different maturity time and the number of tokens earned is also different When the required number of waterings is reached, the tree will bear fruit and the player can harvest agricultural products.
+* Each player has 30 plots of land available. The player needs to plant the seeds on the plots of land on the farm.&#x20;
+* Each type of tree has a different maturity time and the number of tokens earned is also different When the required number of waterings is reached, the tree will bear fruit and the player can harvest agricultural products.
 * If the tree is not taken care of, it will be slow to grow and cannot be harvested on time, significantly affecting the yield.
 
 **4. Token Game**
 
-* MGT (BMH Game token) is the main token in BMH Farm. It can be used to purchase items in-game
-* Currently, the FGT (Farm Game token) is only function is to buy a chest allowing them to unlock and earn rewards.
+​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy39LOQQezVvERXFqNDkL%2Fuploads%2FQX1rrKdBqv8VF3ahmrNN%2FCoin1%201.png?alt=media&#x26;token=212a502b-18fe-4cc9-ba4f-1ed1fe9380a2" alt="" data-size="line"> BMH (ByteMesh Game token) is the main token in BMH Farm. It can be used to purchase items in-game.\
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy39LOQQezVvERXFqNDkL%2Fuploads%2FNXFupDZz6vtKczcUi1dJ%2FCoin2%201.png?alt=media&#x26;token=7ccaaeb4-6214-432a-9af5-50111925d43c" alt="" data-size="line"> Currently, the FGT (Farm Game token) is only function is to buy a chest allowing them to unlock and earn rewards.
 
-## _**An overall look at the entire game flow.**_&#x20;
+## _**An overall look at the entire game flow.**_
 
 ### **Step 1: Set up**
 
-To start playing the game, each **"**future farmer" of BMH Farm needs to create an account for the game to get started.
+To start playing the game, each \*\*"\*\*future farmer" of BMH Farm needs to create an account for the game to get started.
 
 1. First thing first, install Metamask wallet and log in to your account.
-2. Please visit the link [**`https://farms.bmhchain.org`**](https://farms.bmhchain.org) and connect  **`Metamask`**`wallet` to log in to the game.
+2. Please visit the link [**`https://farms.bmhchain.org`**](https://farms.bmhchain.org) and connect **`Metamask`**`wallet` to log in to the game.
 
-Each account will be a transaction wallet address, which farmers can use to store items and confirm transactions through this wallet.&#x20;
+Each account will be a transaction wallet address, which farmers can use to store items and confirm transactions through this wallet.
 
-### **Step 2:** Deposit&#x20;
+### **Step 2:** Deposit
 
-&#x20;Make a **Deposit** to the game contract address that the user
+Make a **Deposit** to the game contract address that the user
 
 Deposit your BMH Farm tokens on the BMHgaming website.
 
@@ -70,9 +71,9 @@ For example, the "Rose" plant has a maturation time of 4 hours, while the "Jasmi
 * Crops need to be tended before they can be harvested. After planting the player needs to manage resources such as water and fertilizer to ensure plants grow strongly.
 * If the player does not provide enough water or fertilizer, the plants may become weak and will experience reduced yields.
 
-#### **3. Growth times**&#x20;
+#### **3. Growth times**
 
-* [**`Growth Times`**](bmhfarm-rules.md#id-1.-the-type-of-seed-affects-how-plants-grow-and-what-they-produce)and yield will vary depending on care conditions and plant type.&#x20;
+* [**`Growth Times`**](bmhfarm-rules.md#id-1.-the-type-of-seed-affects-how-plants-grow-and-what-they-produce)and yield will vary depending on care conditions and plant type.
 
 #### **4.** Complete the Watering cycle, then Harvest.
 
