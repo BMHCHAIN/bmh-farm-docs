@@ -33,7 +33,7 @@ Each player will be provided with 30 empty land plots for planting. After purcha
 ## **2. Taking care of plants**
 
 * Each plant will go through three stages of maturity before it can be harvested.
-* Players will need to cultivate and water the plants during each of these stages to ensure the plants grow as well as possible.
+* Players will need to cultivate and water the plants during each of these stages to ensure the plants grow as well as possible. After germination, the plant has 100 HP.
 
 **Cultivation and watering:**
 
@@ -45,16 +45,16 @@ Each player will be provided with 30 empty land plots for planting. After purcha
 
 **When using fertilizer:**&#x20;
 
-* Using fertilizer can help increase yields and reduce the time needed for plants to mature
+* You can use fertilizer to increase the plant's HP.
 * One application of fertilizer will plant growth by 3 hours.
 
-Ensure 100% harvest yield when farmers fertilize plants multiple times or water according to the prescribed time frame.
+You can use fertilizer to increase the HP of the plant. The percentage of HP (%) of each tree corresponds to % of harvested products. Always ensure the plant's HP is high to maximize crop yield.
 
 <mark style="color:red;">**Note that:**</mark> Watering is free, but fertilisers must be purchased from the [`store`](shop.md).
 
 ## 3. Harvest
 
-<figure><img src="../../.gitbook/assets/harvest.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/harvest.png" alt=""><figcaption><p>Harvesting</p></figcaption></figure>
 
 * Once the plant has matured, farmers can harvest to receive the corresponding products.
 * Harvest yield may vary depending on the quality of the seeds and the plant care process.
