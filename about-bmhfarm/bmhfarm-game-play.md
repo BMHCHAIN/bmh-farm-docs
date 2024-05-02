@@ -93,7 +93,7 @@ For example, the "Rose" plant has a maturation time of 4 hours, while the "Jasmi
 
 ### Step 6: Withdraw
 
-The player can only withdraw MIX tokens
+The player can only withdraw BMH tokens
 
 ### **Step 7: Claim Reward**
 
