@@ -42,22 +42,18 @@ Each player will be provided with 30 empty land plots for planting. After purcha
 
 <figure><img src="../../.gitbook/assets/watering.png" alt=""><figcaption><p>Watering of plant</p></figcaption></figure>
 
-**Buy compostable items:**
+**When using fertilizer:**&#x20;
 
-* Players can purchase fertilizer items from the in-game store.
+* Players can purchase fertilizer items from the in-game store.&#x20;
 * Using fertilizer can help increase yields and reduce the time needed for plants to mature
+* One application of fertilizer will plant growth by 3 hours.
 
-
-
-When using fertilizer, the plant's growth time will be shortened from 3 stages to 2 stages. Each time a farmer uses fertilizer, the plant will increase its maturity level by 1 stage.
-
-Ensuring a 100% harvest yield when farmers fertilize their plants twice or water them three times within the specified time frame.
+Ensure 100% harvest yield when farmers fertilize plants multiple times or water according to the prescribed time frame.
 
 ## 3. Harvest
 
 <figure><img src="../../.gitbook/assets/harvest.png" alt=""><figcaption></figcaption></figure>
 
-Once the plant has matured, farmers can harvest to receive the corresponding products.
-
+* Once the plant has matured, farmers can harvest to receive the corresponding products.
 * Harvest yield may vary depending on the quality of the seeds and the plant care process.
 * After harvesting, the plant will wither, and farmers will need to purchase new seeds for replanting. The planting process is a continuous cycle, and farmers will have to prepare new seeds after each harvest to continue the process of caring for and planting new crops.
