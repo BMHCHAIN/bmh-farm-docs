@@ -45,9 +45,6 @@
   * [🌾 Rice](in-game-items/seeds/rice.md)
   * [🗨️ Jasmine](in-game-items/seeds/jasmine.md)
   * [🥔 Potato](in-game-items/seeds/potato.md)
-* [🐥 Animals (Coming Soon)](in-game-items/animals-coming-soon/README.md)
-  * [🐔 Chicken](in-game-items/animals-coming-soon/chicken.md)
-  * [🐄 Cow](in-game-items/animals-coming-soon/cow.md)
 
 ## THE FARM INFO
 

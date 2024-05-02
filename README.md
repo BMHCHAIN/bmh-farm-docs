@@ -19,10 +19,10 @@ layout:
 
 # 👨‍🌾 Welcome to the farm in BMH!
 
-## Welcome to BMH Farm!!
+<img src="https://abs-0.twimg.com/emoji/v2/svg/1f525.svg" alt="🔥" data-size="line"> Welcome to the digital farm game on the BMH Farm, where every blade of grass sprouting becomes an exciting money-making opportunity. With BMH Farm, you can mine coins, expand your farm, and create unique NFTs with each success. Join now to explore the vibrant world of Play-to-Earn, where creativity and earning money blend seamlessly. Make sure you're ready to elevate your farm to new heights on the NYC chain!
 
 The NFT farm game on the blockchain platform. Players sow seeds and make friends in the virtual world. Earn real money through blockchain with friends just by playing games!
 
-In the BMH Farm game world, the player can connect with friends in the referral system, add and interact with friends. Farming, animal husbandry together and earning money together.
+<img src="https://abs-0.twimg.com/emoji/v2/svg/1f310.svg" alt="🌐" data-size="line"><img src="https://abs-0.twimg.com/emoji/v2/svg/1f3ae.svg" alt="🎮" data-size="line"> In the BMH Farm game world, the player can connect with friends in the referral system, add and interact with friends. Farming, animal husbandry together and earning money together. In the referral system, players can refer friends to play the game to reach VIP level and get extra huge bonus rewards from the in-game referral system.&#x20;
 
-In the referral system, players can refer friends to play the game to reach VIP level and get extra huge bonus rewards from the in-game referral system. Players can get **up to** 5% worth of the tokens harvested and **up to** 15% from the number of tokens used to buy NFT of all referred players.
+<img src="https://abs-0.twimg.com/emoji/v2/svg/1f4b8.svg" alt="💸" data-size="line"> Join us now on this incredible journey!<img src="https://abs-0.twimg.com/emoji/v2/svg/1f680.svg" alt="🚀" data-size="line">\
