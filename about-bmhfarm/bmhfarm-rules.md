@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 📜 BMH Farm Rules
+# 🌼 BMH Farm Rules
 
 ## **1. Growing Time** <a href="#id-1.-growing-time" id="id-1.-growing-time"></a>
 
@@ -49,12 +49,10 @@ The information about the price and profit percentage of seeds after harvest is 
 
 ## **2. Watering - Fertilizer** <a href="#id-2.-watering-fertilizer" id="id-2.-watering-fertilizer"></a>
 
-* Tree termites will have 3 growth levels. During the growth process, you need to water the plant at least three times. After each watering, the water will remain for at least one-third of the growth time. If the soil dries out, the plant will reduce its yield.
-* You can use fertilizer to accelerate the plant's growth.
-
-\+ When using fertilizer, the plant will shorten the time it takes to grow to maturity, from 3 levels down to 2 levels. Each Farner uses fertilizer and the plant will increase its maturity level by 1 level..
-
-\+ Ensure 100% harvest output when farmers use 2 times of fertilizer for 1 plant or 3 times of watering within the prescribed time periods.
+* Tree termites will have 3 growth levels. Each tree will have a different growth time.&#x20;
+* During the growth process, you need to water the plant at times. \
+  After each watering, the water will remain for at least one-third of the growth time. If the soil dries out, the plant will reduce its yield.
+* You can use fertilizer to accelerate the plant's growth. One application of fertilizer will plant growth by 3 hours.
 
 ## 3. Deposit (coming soon)
 
@@ -66,6 +64,4 @@ The information about the price and profit percentage of seeds after harvest is 
 * The minimum withdrawal amount is $10/time. No maximum limit.
 * The first withdrawal will be allowed after 24 hours from the first time login. The next time will be 1 hour after the previous withdrawal.
 * 90% of fees are used for buybacks and burns to support the token price. 10% for distribution group development and marketing activities.
-
-#### ⭕ <mark style="color:red;">**Customers have the flexibility to adjust and specify various parameters such as price, revenue, watering times, bonuses, transaction fees, and more, according to their preferences and requirements.**</mark>&#x20;
 

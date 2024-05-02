@@ -21,15 +21,17 @@ layout:
 
 Here's how it could work:
 
-<figure><img src="../.gitbook/assets/ref.png" alt=""><figcaption><p>Referral</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Referral.png" alt=""><figcaption><p>Referral</p></figcaption></figure>
 
-1. **Referral Program Participation:**
-   * Players can participate in the referral program by inviting new players to join the game using their unique referral link.
-   * Each player will have their own referral link that they can share with friends, family, or on social media platforms.
+1.  **Referral Program Participation:**
 
-<figure><img src="../.gitbook/assets/ranking.png" alt=""><figcaption><p>Ranking board</p></figcaption></figure>
+    * Players can participate in the referral program by inviting new players to join the game using their unique referral link.
+    * Each player will have their own referral link that they can share with friends, family, or on social media platforms.
+
 
 2. **Referral Leaderboard:**
+
+<figure><img src="../.gitbook/assets/Referral Leaderboard" alt=""><figcaption><p><strong>Referral Leaderboard</strong></p></figcaption></figure>
 
 * The game keeps track of the number of successful referrals made by each player.
 * There is a leaderboard that displays the top players with the highest number of referrals on the entire server.

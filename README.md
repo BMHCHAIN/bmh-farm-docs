@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Bytemesh.png
+cover: .gitbook/assets/welcome.png
 coverY: 0
 layout:
   cover:

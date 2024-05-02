@@ -5,7 +5,7 @@
 ## ABOUT BMH FARM
 
 * [🎮 BMH Farm - Game Flow](about-bmhfarm/bmhfarm-game-play.md)
-* [📜 BMH Farm Rules](about-bmhfarm/bmhfarm-rules.md)
+* [🌼 BMH Farm Rules](about-bmhfarm/bmhfarm-rules.md)
 
 ## REFERRAL SYSTEM
 

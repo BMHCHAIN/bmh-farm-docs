@@ -33,16 +33,17 @@ layout:
 * Each type of tree has a different maturity time and the number of tokens earned is also different When the required number of waterings is reached, the tree will bear fruit and the player can harvest agricultural products.
 * If the tree is not taken care of, it will be slow to grow and cannot be harvested on time, significantly affecting the yield.
 
-**4. Token Game**
-
-​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy39LOQQezVvERXFqNDkL%2Fuploads%2FQX1rrKdBqv8VF3ahmrNN%2FCoin1%201.png?alt=media&#x26;token=212a502b-18fe-4cc9-ba4f-1ed1fe9380a2" alt="" data-size="line"> BMH (ByteMesh Game token) is the main token in BMH Farm. It can be used to purchase items in-game.\
+**4. Token Game**\
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy39LOQQezVvERXFqNDkL%2Fuploads%2FQX1rrKdBqv8VF3ahmrNN%2FCoin1%201.png?alt=media&#x26;token=212a502b-18fe-4cc9-ba4f-1ed1fe9380a2" alt="" data-size="line">  BMH (ByteMesh Game token) is the main token in BMH Farm. It can be used to purchase items in-game.\
 <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fy39LOQQezVvERXFqNDkL%2Fuploads%2FNXFupDZz6vtKczcUi1dJ%2FCoin2%201.png?alt=media&#x26;token=7ccaaeb4-6214-432a-9af5-50111925d43c" alt="" data-size="line"> Currently, the FGT (Farm Game token) is only function is to buy a chest allowing them to unlock and earn rewards.
+
+
 
 ## _**An overall look at the entire game flow.**_
 
 ### **Step 1: Set up**
 
-To start playing the game, each \*\*"\*\*future farmer" of BMH Farm needs to create an account for the game to get started.
+To start playing the game, each "future farmer" of BMH Farm needs to create an account for the game to get started.
 
 1. First thing first, install Metamask wallet and log in to your account.
 2. Please visit the link [**`https://farms.bmhchain.org`**](https://farms.bmhchain.org) and connect **`Metamask`**`wallet` to log in to the game.
@@ -94,7 +95,7 @@ For example, the "Rose" plant has a maturation time of 4 hours, while the "Jasmi
 
 ### Step 6: Withdraw
 
-The player can only withdraw BMH tokens
+The player can only withdraw BMH tokens.
 
 ### **Step 7: Claim Reward**
 
