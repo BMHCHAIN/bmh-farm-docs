@@ -37,6 +37,9 @@ The Shop is where player can purchase seeds and access detailed information abou
 
 Shop items provide players with items that can be used in the game, including fertilizer, animal food and more.
 
-<figure><img src="../../.gitbook/assets/shop (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/shops.png" alt=""><figcaption></figcaption></figure>
 
 **Fertilizer** is used to stimulate the growth and development of crops.&#x20;
+
+
+

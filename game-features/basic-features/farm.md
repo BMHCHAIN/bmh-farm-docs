@@ -16,7 +16,9 @@ layout:
 
 ## 1. Sow seeds
 
-Each player will be provided with 30 empty land plots for planting. After purchasing seeds from the shop, players can start planting on these plots.
+Each player will be provided with 30 empty land plots for planting. After purchasing seeds from the [`shop`](shop.md), players can start planting on these plots.
+
+<figure><img src="../../.gitbook/assets/buyseed.png" alt=""><figcaption><p>Buy Seeds</p></figcaption></figure>
 
 **To start planting:**
 
@@ -37,18 +39,18 @@ Each player will be provided with 30 empty land plots for planting. After purcha
 
 <figure><img src="../../.gitbook/assets/Taking care of plant.png" alt=""><figcaption></figcaption></figure>
 
-* Players will need to cultivate and water the plants three times within the specified time frame for each stage.
 * The time between cultivation and watering can be determined based on the type of plant and growing conditions.
 
 <figure><img src="../../.gitbook/assets/watering.png" alt=""><figcaption><p>Watering of plant</p></figcaption></figure>
 
 **When using fertilizer:**&#x20;
 
-* Players can purchase fertilizer items from the in-game store.&#x20;
 * Using fertilizer can help increase yields and reduce the time needed for plants to mature
 * One application of fertilizer will plant growth by 3 hours.
 
 Ensure 100% harvest yield when farmers fertilize plants multiple times or water according to the prescribed time frame.
+
+<mark style="color:red;">**Note that:**</mark> Watering is free, but fertilisers must be purchased from the [`store`](shop.md).
 
 ## 3. Harvest
 
