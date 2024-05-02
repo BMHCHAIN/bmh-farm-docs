@@ -19,7 +19,7 @@ layout:
 
 # 👨‍🌾 Welcome to the farm in BMH!
 
-<img src="https://abs-0.twimg.com/emoji/v2/svg/1f525.svg" alt="🔥" data-size="line"> Welcome to the digital farm game on the BMH Farm, where every blade of grass sprouting becomes an exciting money-making opportunity. With BMH Farm, you can mine coins, expand your farm, and create unique NFTs with each success. Join now to explore the vibrant world of Play-to-Earn, where creativity and earning money blend seamlessly. Make sure you're ready to elevate your farm to new heights on the NYC chain!
+<img src="https://abs-0.twimg.com/emoji/v2/svg/1f525.svg" alt="🔥" data-size="line"> Welcome to the digital farm game on the BMH Farm, where every blade of grass sprouting becomes an exciting money-making opportunity. With BMH Farm, you can mine coins, expand your farm, and create unique NFTs with each success. Join now to explore the vibrant world of Play-to-Earn, where creativity and earning money blend seamlessly.&#x20;
 
 The NFT farm game on the blockchain platform. Players sow seeds and make friends in the virtual world. Earn real money through blockchain with friends just by playing games!
 
