@@ -18,7 +18,7 @@ layout:
 
 $BMH is the project's governance token.
 
-Token name: Byte Mesh
+Token name: BMH Farm
 
 Symbol: BMH
 
