@@ -29,7 +29,6 @@ Symbol: BMH
 
 🌾<mark style="color:green;">**Tokenomics**</mark>
 
-* Total Supply: 5,000,000 BMH
-* Marketing: 5%
+* Total Supply: 10,000,000 BMH
 * Tax Buy: 5%
 * Tax Sell: 5%
