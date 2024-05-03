@@ -48,8 +48,6 @@ Each player will be provided with 30 empty land plots for planting. After purcha
 * You can use fertilizer to increase the plant's HP.
 * One application of fertilizer will plant growth by 3 hours.
 
-You can use fertilizer to increase the HP of the plant. The percentage of HP (%) of each tree corresponds to % of harvested products. Always ensure the plant's HP is high to maximize crop yield.
-
 <mark style="color:red;">**Note that:**</mark> Watering is free, but fertilisers must be purchased from the [`store`](shop.md).
 
 ## 3. Harvest
@@ -57,5 +55,6 @@ You can use fertilizer to increase the HP of the plant. The percentage of HP (%)
 <figure><img src="../../.gitbook/assets/harvest.png" alt=""><figcaption><p>Harvesting</p></figcaption></figure>
 
 * Once the plant has matured, farmers can harvest to receive the corresponding products.
-* Harvest yield may vary depending on the quality of the seeds and the plant care process.
+* &#x20;The percentage of HP (%) of each tree corresponds to % of harvested products. Always ensure the plant's HP is high to maximize crop yield.
 * After harvesting, the plant will wither, and farmers will need to purchase new seeds for replanting. The planting process is a continuous cycle, and farmers will have to prepare new seeds after each harvest to continue the process of caring for and planting new crops.
+
