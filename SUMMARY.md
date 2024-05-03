@@ -35,7 +35,7 @@
   * [🌲 Pinetree](seed-system/pinetree.md)
   * [🫘 Cacao](seed-system/cacao.md)
   * [🌳 Coffee](in-game-items/seeds/coffee.md)
-  * [🏈 Rubber](in-game-items/seeds/rubber.md)
+  * [🎍 Rubber](in-game-items/seeds/rubber.md)
   * [🌿 Teaplant](in-game-items/seeds/teaplant.md)
   * [☁️ Silk](in-game-items/seeds/silk.md)
   * [🌶️ Pepper](in-game-items/seeds/pepper.md)
