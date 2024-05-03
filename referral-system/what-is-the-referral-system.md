@@ -28,4 +28,4 @@ Each VIP level has different conditions and bonus rates. At the highest VIP leve
 1. Referrals: Number of people referred.
 2. Seed Required: Number of seeds required to purchase
 3. VIP System Bonus: If the referred person sells products, the referrer will be rewarded with FGT
-4. VIP Level Bonus: Referrals who buy Seed will receive MGT Tokens as a reward
+4. VIP Level Bonus: Referrals who buy Seed will receive BMH Tokens as a reward
