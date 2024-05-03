@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/welcomtobmh.png
-coverY: 35
+coverY: 59.26815642458101
 layout:
   cover:
     visible: true
