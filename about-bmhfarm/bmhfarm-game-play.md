@@ -90,8 +90,8 @@ For example, the "Rose" plant has a maturation time of 4 hours, while the "Jasmi
 
 ### Step 5: Buy Chest
 
-* A farmer buys a chest and opens it, they will have a chance to receive either seed or even MGT.
-* The types of chests can vary in price and rewards, from Bronze to Golden chests.
+* A farmer buys a chest and opens it, they will have a chance to receive either seed or even BMH.
+* The types of chests can vary in price and rewards, from[ Bronze to Diamond chests](../game-features/basic-features/treasure-chest.md).
 
 ### Step 6: Withdraw
 
