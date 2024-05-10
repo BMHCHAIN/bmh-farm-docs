@@ -12,17 +12,17 @@ layout:
     visible: true
 ---
 
-# 🎏 Withdraw (Coming Soon)
+# 🎏 Withdraw
 
 Go to menu User => click \[Withdraw]
 
-<figure><img src="../../.gitbook/assets/withdraw.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-05-10 084340.png" alt=""><figcaption></figcaption></figure>
 
 Enter the amount you want to withdraw, Continue to click \[ok]
 
-<figure><img src="../../.gitbook/assets/withdrawal.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-05-10 084442.png" alt=""><figcaption></figcaption></figure>
 
 Immediately, the withdrawal amount will be transferred directly to your wallet.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-05-02 154534.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-05-10 084545.png" alt=""><figcaption></figcaption></figure>
 
