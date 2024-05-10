@@ -27,9 +27,9 @@ layout:
 * They will receive a corresponding amount of FGT (in-game currency) upon selling the products.
 * FGT can then be used to purchase chests within the game.
 
-<figure><img src="../../.gitbook/assets/products.png" alt=""><figcaption><p>Sell ​​products to receive FGT</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/products (1).png" alt=""><figcaption></figcaption></figure>
 
-### 2. Bestseller Shop <a href="#id-2.-bestseller-shop" id="id-2.-bestseller-shop"></a>
+2\. Bestseller Shop
 
 After completing the sale of products to receive FGT, players will use FGT to open treasure chests, each chest will provide a different reward. Users will receive a random reward
 
