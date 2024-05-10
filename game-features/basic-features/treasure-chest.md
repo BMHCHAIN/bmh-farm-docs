@@ -47,3 +47,15 @@ The rewards for opening chests can vary widely, depending on the chest packs. Re
 * **Silver Chest - 5000 FGT:** Seeds  ( Strawberry 40%, Rice 25% , Wheat 10%, Peanut 10%,  Corn 10%). BMH tokens (515-560) chance 5%.
 * **Golden Chest - 7000 FGT**: Seeds  (Cotton 40% , Sugarcane 25%, Silk 10%, Teaplant 10%, Pepper 10% ). BMH tokens (750-810) chance 5%.
 * **Diamond Chest- 9000 FGT:** ( Rubber 40%, Coffee 35% Cacao 10% Pinetree 10% ) BMH tokens (950-1050 ) chance 5%.
+
+#### Receive  rewards
+
+* Receive Seeds 🌱
+
+Players will receive seeds as rewards. The seed will be directly added to their warehouse.
+
+* Receive tokens as rewards 🌟
+
+Players will receive tokens as rewards. To claim the tokens, they need to click on the 'Claim' button. Once claimed, the tokens will be directly added to their wallet.
+
+<figure><img src="../../.gitbook/assets/user info.png" alt=""><figcaption></figcaption></figure>
