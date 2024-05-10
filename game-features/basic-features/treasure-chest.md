@@ -52,10 +52,10 @@ The rewards for opening chests can vary widely, depending on the chest packs. Re
 
 * Receive Seeds 🌱
 
-Players will receive seeds as rewards. The seed will be directly added to their warehouse.
+You will receive seeds as a rewards. The seed will be directly added to your warehouse.
 
 * Receive tokens as rewards 🌟
 
-Players will receive tokens as rewards. To claim the tokens, they need to click on the 'Claim' button. Once claimed, the tokens will be directly added to their wallet.
+You will receive tokens as rewards. To claim the tokens, you need to click on the 'Claim' button. Once claimed, the tokens will be directly added to your wallet.
 
 <figure><img src="../../.gitbook/assets/user info.png" alt=""><figcaption></figcaption></figure>
