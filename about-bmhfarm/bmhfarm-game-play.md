@@ -46,7 +46,7 @@ layout:
 To start playing the game, each "future farmer" of BMH Farm needs to create an account for the game to get started.
 
 1. First thing first, install Metamask wallet and log in to your account.
-2. Please visit the link [**`https://farms.bmhchain.org`**](https://farms.bmhchain.org) and connect **`Metamask`**`wallet` to log in to the game.
+2. Please visit the link [**`https://farm.bmhchain.org`**](https://farm.bmhchain.org) and connect **`Metamask`**`wallet` to log in to the game.
 
 Each account will be a transaction wallet address, which farmers can use to store items and confirm transactions through this wallet.
 
