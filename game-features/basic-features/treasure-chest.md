@@ -27,7 +27,7 @@ layout:
 * They will receive a corresponding amount of FGT (in-game currency) upon selling the products.
 * FGT can then be used to purchase chests within the game.
 
-&#x20;<img src="../../.gitbook/assets/image (1).png" alt="" data-size="line"> Bonus FGT when reaching VIP level
+<img src="../../.gitbook/assets/image (1).png" alt="" data-size="line"> Bonus FGT when reaching VIP level
 
 <figure><img src="../../.gitbook/assets/products (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -46,9 +46,9 @@ The rewards for opening chests can vary widely, depending on the chest packs. Re
 * Bronze Chest - 2700 FGT: Seeds ( Rose, Jasmine, Carrot, Tomato, Potato, BMH tokens)
 * Silver Chest - 4500 FGT: Seeds (Strawberry, Rice, Wheat, Peanut, Corn, BMH tokens)
 * Golden Chest - 6300 FGT: Seeds (Cotton, Sugarcane, Silk, Teaplant, Pepper, BMH tokens)
-* Diamond Chest- 8100 FGT: ( Rubber Coffee Cacao Pinetree, BMH tokens  )
+* Diamond Chest- 8100 FGT: ( Rubber, Coffee, Cacao, Pinetree, BMH tokens )
 
-#### Receive  rewards
+#### Receive rewards
 
 * Receive Seeds 🌱
 
@@ -58,7 +58,7 @@ You will receive seeds as a rewards. The seed will be directly added to your war
 
 * Receive tokens as rewards 🌟
 
-You will receive tokens as rewards.&#x20;
+You will receive tokens as rewards.
 
 <figure><img src="../../.gitbook/assets/tokens.png" alt=""><figcaption></figcaption></figure>
 
