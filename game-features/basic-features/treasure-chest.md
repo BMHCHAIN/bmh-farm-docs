@@ -58,4 +58,3 @@ You will receive seeds as a rewards. The seed will be directly added to your war
 
 You will receive tokens as rewards. To claim the tokens, you need to click on the 'Claim' button. Once claimed, the tokens will be directly added to your wallet.
 
-<figure><img src="../../.gitbook/assets/user info.png" alt=""><figcaption></figcaption></figure>
