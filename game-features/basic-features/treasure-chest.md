@@ -41,11 +41,10 @@ After completing the sale of products to receive FGT, players will use FGT to op
 
 The rewards for opening chests can vary widely, depending on the chest packs. Rewards may include seeds and tokens.
 
-&#x20;**Bronze Chest -  3000 FGT:**  Seeds ( Rose 40% , Jasmine 25% carrot 10% , Tomato 10%, Potato  10%). BMH tokens (295-350) chance 5%.
-
-* **Silver Chest - 5000 FGT:** Seeds  ( Strawberry 40%, Rice 25% , Wheat 10%, Peanut 10%,  Corn 10%). BMH tokens (515-560) chance 5%.
-* **Golden Chest - 7000 FGT**: Seeds  (Cotton 40% , Sugarcane 25%, Silk 10%, Teaplant 10%, Pepper 10% ). BMH tokens (750-810) chance 5%.
-* **Diamond Chest- 9000 FGT:** ( Rubber 40%, Coffee 35% Cacao 10% Pinetree 10% ) BMH tokens (950-1050 ) chance 5%.
+* Bronze Chest - 2700 FGT: Seeds ( Rose, Jasmine, Carrot, Tomato, Potato, BMH tokens)
+* Silver Chest - 4500 FGT: Seeds (Strawberry, Rice, Wheat, Peanut, Corn, BMH tokens)
+* Golden Chest - 6300 FGT: Seeds (Cotton, Sugarcane, Silk, Teaplant, Pepper, BMH tokens)
+* Diamond Chest- 8100 FGT: ( Rubber Coffee Cacao Pinetree, BMH tokens  )
 
 #### Receive  rewards
 
@@ -54,8 +53,6 @@ The rewards for opening chests can vary widely, depending on the chest packs. Re
 You will receive seeds as a rewards. The seed will be directly added to your warehouse.
 
 <figure><img src="../../.gitbook/assets/brozen.png" alt=""><figcaption></figcaption></figure>
-
-
 
 * Receive tokens as rewards 🌟
 
