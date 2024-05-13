@@ -30,5 +30,15 @@ Symbol: BMH
 🌾<mark style="color:green;">**Tokenomics**</mark>
 
 * Total Supply: 10,000,000 BMH
-* Tax Buy: 5%
-* Tax Sell: 5%
+* FarmFi: 45%
+* Marketing: 3%
+* Team: 2%
+* Cex: 5%
+
+* Presale:30%
+* Liquidity: 15%
+
+*BUY / SELL TAX 
+* Slip buy: 5%
+* Slip sell: 5%
+
