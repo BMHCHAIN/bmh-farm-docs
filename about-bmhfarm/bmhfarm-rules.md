@@ -34,14 +34,12 @@ The information about the price and profit percentage of seeds after harvest is 
   After each watering, the water will remain for at least one-third of the growth time. If the soil dries out, the plant will reduce its yield.
 * You can use fertilizer to accelerate the plant's growth. One application of fertilizer will plant growth by 3 hours.
 
-## 3. Deposit (coming soon)
+## 3. Deposit&#x20;
 
-* Depositing in-game tokens will incur a 2.5% transaction fee.
+* Depositing in-game tokens will be without fees.
 
-## 4. Withdraw (coming soon)
+## 4. Withdraw&#x20;
 
-* Withdrawal of in-game tokens will incur a 2.5% transaction fee.
-* The minimum withdrawal amount is $10/time. No maximum limit.
-* The first withdrawal will be allowed after 24 hours from the first time login. The next time will be 1 hour after the previous withdrawal.
-* 90% of fees are used for buybacks and burns to support the token price. 10% for distribution group development and marketing activities.
+* Withdrawal of in-game tokens will be without fees.
+* &#x20;There is no maximum limit withdrawal.
 
