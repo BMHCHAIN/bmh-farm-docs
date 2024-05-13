@@ -30,4 +30,3 @@ The warehouse is a storage space where players can store and manage items and pr
 **Products:**
 
 * The products section usually contains the harvested or processed items that players obtain from their farming activities.
-* These products often consist of agricultural produce such as crops or coming soon (animal products like eggs or milk)
