@@ -28,14 +28,9 @@ The Shop is where player can purchase seeds and access detailed information abou
 * Each seed will have a different price, growth time, and yield and a brief description of its characteristics and benefits.
 * Users can select the seeds they want to buy and proceed to checkout.
 
-### 2. Animals (Coming Soon) <a href="#id-2.-animals-coming-soon" id="id-2.-animals-coming-soon"></a>
+### 2. Items <a href="#id-3.-items" id="id-3.-items"></a>
 
-* Shop animals can be part of the game's business system, allowing players to purchase animals using in-game currency.
-* Shop Animals can provide players with animals or pets to raise in the game.
-
-### 3. Items <a href="#id-3.-items" id="id-3.-items"></a>
-
-Shop items provide players with items that can be used in the game, including fertilizer, animal food and more.
+Shop items provide players with items that can be used in the game, including fertilizer.
 
 <figure><img src="../../.gitbook/assets/shop item.png" alt=""><figcaption></figcaption></figure>
 
