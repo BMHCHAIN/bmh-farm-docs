@@ -29,7 +29,7 @@ layout:
 
 <img src="../../.gitbook/assets/image (1).png" alt="" data-size="line"> Bonus FGT when reaching VIP level
 
-<figure><img src="../../.gitbook/assets/products (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/products (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Bestseller Shop
 
@@ -37,7 +37,7 @@ After completing the sale of products to receive FGT, players will use FGT to op
 
 * There are 4 Treasure Chests in total. IncIncluding Bronze - Silver - Golden- Diamond
 
-<figure><img src="../../.gitbook/assets/Chest.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/products.png" alt=""><figcaption></figcaption></figure>
 
 **Open a chest**
 
