@@ -20,8 +20,9 @@
   * [🪴 Farm](game-features/basic-features/farm.md)
   * [🏚️ Warehouse](game-features/basic-features/storehouse.md)
   * [🎁 Treasure Chest](game-features/basic-features/treasure-chest.md)
-* [🎏 Withdraw](game-features/withdraw.md)
-* [🪙 Deposit](game-features/basic-features/deposit-coming-soon.md)
+* [House](game-features/house/README.md)
+  * [🎏 Withdraw](game-features/house/withdraw.md)
+  * [🪙 Deposit](game-features/house/deposit-coming-soon.md)
 
 ## IN GAME ITEMS
 

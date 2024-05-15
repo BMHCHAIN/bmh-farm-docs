@@ -20,7 +20,7 @@ The Shop is where player can purchase seeds and access detailed information abou
 
 ### 1. Seeds <a href="#id-1.-seeds" id="id-1.-seeds"></a>
 
-<figure><img src="../../.gitbook/assets/shop.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/shops.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/seed.png" alt=""><figcaption></figcaption></figure>
 

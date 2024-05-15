@@ -27,7 +27,7 @@ layout:
 * They will receive a corresponding amount of FGT (in-game currency) upon selling the products.
 * FGT can then be used to purchase chests within the game.
 
-<img src="../../.gitbook/assets/image (1).png" alt="" data-size="line"> Bonus FGT when reaching VIP level
+<img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="line"> Bonus FGT when reaching VIP level
 
 <figure><img src="../../.gitbook/assets/products (1) (1).png" alt=""><figcaption></figcaption></figure>
 
