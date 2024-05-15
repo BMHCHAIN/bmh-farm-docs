@@ -2,7 +2,7 @@
 
 ### <mark style="color:blue;">Receive Rewards</mark>
 
-For Open Chest, the reward will be received in tokens, and the reward for Referral reward will also be given in the form of tokens.
+For Open Chest, the reward will be received in tokens, and the reward for Referral reward be given in the form of tokens.
 
 * To receive tokens, users must perform a "<mark style="color:green;">**Claim**</mark>"  (click the Claim button ) operation to record their transactions.
 * &#x20;This procedure ensures that every received amount is recorded and stored on the blockchain.&#x20;
