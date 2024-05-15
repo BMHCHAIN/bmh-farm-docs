@@ -12,7 +12,7 @@ For Open Chest, the reward will be received in tokens, and the reward for Referr
 
 ### <mark style="color:blue;">History</mark>
 
-The transaction activity log records all buy/sell, and reward activities performed by users.
+The transaction activity log records all deposit/withdraw , buy/sell, and reward activities performed by users.
 
 <figure><img src="../../.gitbook/assets/history.png" alt=""><figcaption></figcaption></figure>
 
