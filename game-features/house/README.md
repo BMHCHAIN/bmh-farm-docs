@@ -1,6 +1,6 @@
-# House
+# 🪵 House
 
-## <mark style="color:blue;">Receive Rewards</mark>
+### <mark style="color:blue;">Receive Rewards</mark>
 
 For Open Chest, the reward will be received in tokens, and the reward for Referral reward will also be given in the form of tokens.
 
@@ -10,7 +10,7 @@ For Open Chest, the reward will be received in tokens, and the reward for Referr
 
 <figure><img src="../../.gitbook/assets/House.png" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;">History</mark>
+### <mark style="color:blue;">History</mark>
 
 The transaction activity log records all buy/sell, and reward activities performed by users.
 
