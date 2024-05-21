@@ -22,7 +22,7 @@ Token name: BMH Farm
 
 Symbol: BMH
 
-Contarct : 0xc1b8A3B40770fDAA2F7e20980a7a1db06301a94D
+Contract : 0xc1b8A3B40770fDAA2F7e20980a7a1db06301a94D
 
 👉 <mark style="color:green;">**Utility**</mark>
 
