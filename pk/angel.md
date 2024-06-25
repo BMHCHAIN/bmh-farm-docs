@@ -10,7 +10,7 @@ Unique Skills: Angels are distinguished by rare and unique skills. These skills 
 
 **Star Quality:** The hatching ratio is designed to consistently offer players the chance to hatch Angels with higher star quality, ensuring a rewarding and progressive experience. Users will never obtain an Angel with a star quality lower than the xEGG used for hatching.
 
-![](https://chainkloud-coms-organization.gitbook.io/\~gitbook/image?url=https%3A%2F%2F1796548972-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FZEMUFPTQrcf7O846fusu%252Fuploads%252Fqn0YZNLAphO7pPDvnyH4%252Fimage%2520%281%29.png%3Falt%3Dmedia%26token%3Dc593b72c-0b9e-4f07-8176-8c486e96af02\&width=768\&dpr=4\&quality=100\&sign=d7e9e24dac6417d916cdcbe0bf9be062a84e36235ad8fe64c0353d31089767da)
+<figure><img src="https://chainkloud-coms-organization.gitbook.io/~gitbook/image?url=https%3A%2F%2F1796548972-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FZEMUFPTQrcf7O846fusu%252Fuploads%252Fqn0YZNLAphO7pPDvnyH4%252Fimage%2520%281%29.png%3Falt%3Dmedia%26token%3Dc593b72c-0b9e-4f07-8176-8c486e96af02&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=d7e9e24dac6417d916cdcbe0bf9be062a84e36235ad8fe64c0353d31089767da" alt=""><figcaption></figcaption></figure>
 
 #### _Special Abilities:_ <a href="#special-abilities" id="special-abilities"></a>
 
