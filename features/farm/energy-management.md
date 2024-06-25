@@ -19,4 +19,4 @@ Each Saiyan Hero has an energy source, represented by hearts ranging from ❤️
 
 ✨ After a Hero reaches a new level, their energy (hearts) will be fully restored
 
-✨ Hero Saiyans stay stronger and longer using BPet to purchase essential [Food.](https://chainkloud-coms-organization.gitbook.io/saiyan-docs/features/market)
+✨ Hero Saiyans stay stronger and longer using BPet to purchase essential Food.
