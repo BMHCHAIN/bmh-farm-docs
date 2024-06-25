@@ -1,54 +1,29 @@
 # Table of contents
 
-* [👨‍🌾 Welcome to the farm in BMH!](README.md)
+* [🎯 Introduction Saiyan](README.md)
+  * [🎀Key Features](introduction-saiyan/key-features.md)
+  * [🎮GAME MECHANICS](introduction-saiyan/game-mechanics.md)
 
-## ABOUT BMH FARM
+## FEATURES
 
-* [🎮 BMH Farm - Game Flow](about-bmhfarm/bmhfarm-game-play.md)
-* [🌼 BMH Farm Rules](about-bmhfarm/bmhfarm-rules.md)
+* [Saiya-Jin](features/saiya-jin.md)
+* [Farm🌱](features/farm/README.md)
+  * [⬛ Farm - The Training Grounds](features/farm/farm-the-training-grounds.md)
+  * [⬛ Farm parameters](features/farm/farm-parameters.md)
+  * [⬛ Energy Management](features/farm/energy-management.md)
 
-## REFERRAL SYSTEM
+***
 
-* [🤝 What Is The Referral System?](referral-system/what-is-the-referral-system.md)
-* [🎯 Referral Condition](referral-system/referral-condition.md)
-* [🧮 Honors List](referral-system/honors-list.md)
-
-## GAME FEATURES
-
-* [✨ Basic Features](game-features/basic-features/README.md)
-  * [🛒 Shop](game-features/basic-features/shop.md)
-  * [🪴 Farm](game-features/basic-features/farm.md)
-  * [🏚️ Warehouse](game-features/basic-features/storehouse.md)
-  * [🎁 Treasure Chest](game-features/basic-features/treasure-chest.md)
-* [🪵 House](game-features/house/README.md)
-  * [🎏 Withdraw](game-features/house/withdraw.md)
-  * [🪙 Deposit](game-features/house/deposit-coming-soon.md)
-
-## IN GAME ITEMS
-
-* [🌱 Seeds](in-game-items/seeds/README.md)
-  * [🌹 Rose](in-game-items/seeds/rose.md)
-  * [🍅 Tomato](seed-system/tomato.md)
-  * [🥕 Carrot](in-game-items/seeds/carrot.md)
-  * [🍓 Strawberry](seed-system/strawberry.md)
-  * [💮 Cotton](seed-system/cotton.md)
-  * [🌽 Corn](seed-system/corn.md)
-  * [🌲 Pinetree](seed-system/pinetree.md)
-  * [🫘 Cacao](seed-system/cacao.md)
-  * [🌳 Coffee](in-game-items/seeds/coffee.md)
-  * [🎍 Rubber](in-game-items/seeds/rubber.md)
-  * [🌿 Teaplant](in-game-items/seeds/teaplant.md)
-  * [☁️ Silk](in-game-items/seeds/silk.md)
-  * [🌶️ Pepper](in-game-items/seeds/pepper.md)
-  * [🫧 Sugarcane](in-game-items/seeds/sugarcane.md)
-  * [🥜 Peanut](in-game-items/seeds/peanut.md)
-  * [☀️ Wheat](in-game-items/seeds/wheat.md)
-  * [🌾 Rice](in-game-items/seeds/rice.md)
-  * [🗨️ Jasmine](in-game-items/seeds/jasmine.md)
-  * [🥔 Potato](in-game-items/seeds/potato.md)
-
-## THE FARM INFO
-
-* [🗺️ Roadmap](the-farm-info/roadmap.md)
-* [🖼️ Tokenomics](the-farm-info/tokenomics.md)
-* [🔗 Official Links](the-farm-info/official-links.md)
+* [🪚 PvE (Adventure)](pve-adventure/README.md)
+  * [🥚 xEgg](pve-adventure/xegg.md)
+* [🔞 PVP](pk/README.md)
+  * [⚡ Energy](pk/energy.md)
+  * [🗡️ Weapons](pk/weapons.md)
+  * [👼 Angel](pk/angel.md)
+  * [Hero Saiyan training](pk/hero-saiyan-training.md)
+  * [Hero Saiyan Healing](pk/hero-saiyan-healing.md)
+* [🚩 Game Assets](game-assets.md)
+* [🏪 Market](market.md)
+* [X- Twitter](x-twitter.md)
+* [Tokenomic](tokenomic.md)
+* [Official Links](official-links.md)

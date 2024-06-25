@@ -1,14 +1,14 @@
 ---
-cover: .gitbook/assets/welcomtobmh.png
-coverY: 63.31284916201117
+cover: .gitbook/assets/image.avif
+coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -17,12 +17,19 @@ layout:
     visible: true
 ---
 
-# 👨‍🌾 Welcome to the farm in BMH!
+# 🎯 Introduction Saiyan
 
-<img src="https://abs-0.twimg.com/emoji/v2/svg/1f525.svg" alt="🔥" data-size="line"> Welcome to the digital farm game on the BMH Farm, where every blade of grass sprouting becomes an exciting money-making opportunity. With BMH Farm, you can mine coins, expand your farm, and create unique NFTs with each success. Join now to explore the vibrant world of Play-to-Earn, where creativity and earning money blend seamlessly.&#x20;
+Saiyan is a Twitter expansion game that brings to mind DragonBall Z. In this game, users can own and trade characters, items, and energy using Blockchain technology. Drawing inspiration from the legendary Saiyan Warriors.
 
-The NFT farm game on the blockchain platform. Players sow seeds and make friends in the virtual world. Earn real money through blockchain with friends just by playing games!
+It's not just a game; it's an immersive fusion of adventure, technology advancements, social interaction and sustainable financial gains within the dynamic XSaiyan ecosystem.
 
-<img src="https://abs-0.twimg.com/emoji/v2/svg/1f310.svg" alt="🌐" data-size="line"><img src="https://abs-0.twimg.com/emoji/v2/svg/1f3ae.svg" alt="🎮" data-size="line"> In the BMH Farm game world, the player can connect with friends in the referral system, add and interact with friends. Farming, animal husbandry together and earning money together. In the referral system, players can refer friends to play the game to reach VIP level and get extra huge bonus rewards from the in-game referral system.&#x20;
+Users can purchase, train, and battle Saiyan characters, each of which is a unique NFT. Users can also earn money from the game by farming, PvE (adventure), and PvP.
 
-<img src="https://abs-0.twimg.com/emoji/v2/svg/1f4b8.svg" alt="💸" data-size="line"> Join us now on this incredible journey!<img src="https://abs-0.twimg.com/emoji/v2/svg/1f680.svg" alt="🚀" data-size="line">\
+#### **Basic Information** <a href="#basic-information" id="basic-information"></a>
+
+**The game integrates an extension on X (Twitter), aligning with the GameFi (Gaming Finance) and SocialFi (Social Finance) 2.0 concepts.**
+
+* **Token Symbol: The token is represented by the symbol $XPET.**
+* **$XPET** XSaiyan contract:  coming soon
+* **In-Game Currency: The currency used within the game is BPet (BMH FARM )**
+* **$BPet (BMH FARM ) contract : 0xc1b8A3B40770fDAA2F7e20980a7a1db06301a94D**
