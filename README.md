@@ -30,6 +30,6 @@ Users can purchase, train, and battle Saiyan characters, each of which is a uniq
 **The game integrates an extension on X (Twitter), aligning with the GameFi (Gaming Finance) and SocialFi (Social Finance) 2.0 concepts.**
 
 * **Token Symbol: The token is represented by the symbol $XPET.**
-* **$XPET** XSaiyan contract:  coming soon
+* **$XPET** XSaiyan contract:  **0x146c74A991196Ff483590bBb720478DfE1eC4BEe**
 * **In-Game Currency: The currency used within the game is BPet (BMH FARM )**
 * **$BPet (BMH FARM ) contract : 0xc1b8A3B40770fDAA2F7e20980a7a1db06301a94D**
